@@ -1,5 +1,3 @@
-# image_classification_using_sift
-sift + kmeans + td-idf + svm
 
 sift + kmeans  + td-idf + svm实现图片分类
 1、使用opencv提取sift特征
